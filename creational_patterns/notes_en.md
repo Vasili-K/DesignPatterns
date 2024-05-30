@@ -11,3 +11,10 @@ These patterns help to make a system independent of how its objects are created,
 [Refactoring Guru: Factory Method](https://refactoring.guru/design-patterns/factory-method)
 
 The main idea of the pattern is to delegate the creation of class instances to subclasses, which increases flexibility and code reuse.
+
+## Abstract Factory
+
+#### is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
+[Refactoring Guru: Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
+
+Essentially, it delegates the responsibility of instantiating a class to subclasses, which can be useful for managing a family of objects without specifying their concrete classes. 
